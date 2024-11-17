@@ -6,5 +6,4 @@
     "optimizer": "adamw",
     "lr": 2e-4,
     "epochs":300,
-    "eval_freq": 1
 }
