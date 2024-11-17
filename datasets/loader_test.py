@@ -119,7 +119,6 @@ class TripleLoader(Dataset):
         ir_path = os.path.join(self.root_dir, 'IR', img_name)
         gt_path = os.path.join(self.root_dir, 'GT', img_name)
 
-        # 检查文件是否存在
         if not os.path.exists(vi_path):
             print(f"Vi image file not found: {vi_path}")
             return None
