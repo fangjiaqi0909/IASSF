@@ -1,7 +1,6 @@
 {
     "batch_size": 6,
     "patch_size": 256,
-    "valid_mode": "valid",
     "edge_decay": 0,
     "only_h_flip": false,
     "optimizer": "adamw",
