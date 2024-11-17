@@ -37,6 +37,13 @@ The final file path should be the same as the following (please check it careful
     │   │       └─ ... (image filename)   
     └─ ... (dataset name)
 ```
+## Notice
+
+Due to GitHub’s upload size limit for individual files, we have split the model weights into three parts. If you need to perform testing, you must first combine 'IASSF_part_aa', 'IASSF_part_ab', and 'IASSF_part_ac' using the command below before proceeding with the tests.
+
+```sh
+cat saved_models/iassf/IASSF_part_* > saved_models/iassf/IASSF.pth
+```
 
 ## Training
 
