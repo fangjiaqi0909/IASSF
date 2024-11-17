@@ -51,7 +51,7 @@ CUDA_VISIBLE_DEVICES=X python train.py --model (model name) --dataset (dataset n
 For example, we train the IASSF on the MSRS:
 
 ```sh
-CUDA_VISIBLE_DEVICES=0 python test.py --model iassf --dataset MSRS --exp iassf
+CUDA_VISIBLE_DEVICES=0 python train.py --model iassf --dataset MSRS --exp iassf
 ```
 
 ## Testing
