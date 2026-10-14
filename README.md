@@ -1,4 +1,4 @@
-# Infrared-Assisted Single-Stage Framework for Joint Restoration and Fusion of  Visible and Infrared Images under Hazy Conditions(IASSF)[Pattern Recognition 2026]
+# Infrared-Assisted Single-Stage Framework for Joint Restoration and Fusion of  Visible and Infrared Images under Hazy Conditions (IASSF) [Pattern Recognition, 2026]
 # Li, Huafeng and Fang, Jiaqi and Zhang, Yafei and Liu, Yu
 
 
@@ -80,3 +80,18 @@ CUDA_VISIBLE_DEVICES=0 python test.py --model iassf --dataset MSRS --exp iassf
 ## Any Question
 
 If you have any other questions about the code, please email to fangjiaqi@mail.hfut.edu.cn or fangjiaqi0909@outlook.com
+
+## Citation
+
+@article{zhang2026infrared,
+  title={Infrared-assisted single-stage framework for joint restoration and fusion of visible and infrared images under hazy conditions},
+  author={Zhang, Yafei and Liu, Yu and others},
+  journal={Pattern Recognition},
+  pages={113074},
+  year={2026},
+  publisher={Elsevier}
+}
+
+## License
+
+This repository is released for academic research purposes only.
