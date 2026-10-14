@@ -83,6 +83,7 @@ If you have any other questions about the code, please email to fangjiaqi@mail.h
 
 ## Citation
 
+```
 @article{zhang2026infrared,
   title={Infrared-assisted single-stage framework for joint restoration and fusion of visible and infrared images under hazy conditions},
   author={Zhang, Yafei and Liu, Yu and others},
@@ -91,6 +92,7 @@ If you have any other questions about the code, please email to fangjiaqi@mail.h
   year={2026},
   publisher={Elsevier}
 }
+```
 
 ## License
 
