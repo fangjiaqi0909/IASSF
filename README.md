@@ -58,6 +58,10 @@
   <img src="figs/Ablation%20study.png" width="90%">
 </p>
 
+<p align="center">
+  <img src="figs/Ablation%20study-table.png" width="90%">
+</p>
+
 ## Model Complexity Analysis
 
 <p align="center">
