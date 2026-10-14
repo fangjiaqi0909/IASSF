@@ -64,7 +64,7 @@
   <img src="figs/Model%20Complexity%20Analysis.png" width="90%">
 </p>
 
-
+## Installation
 1. Install PyTorch 1.10.2 and torchvision 0.11.3.
     ```bash
     conda install -c pytorch pytorch torchvision
