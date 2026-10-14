@@ -1,4 +1,7 @@
 # Infrared-Assisted Single-Stage Framework for Joint Restoration and Fusion of  Visible and Infrared Images under Hazy Conditions(IASSF)[Pattern Recognition 2026]
+# Li, Huafeng and Fang, Jiaqi and Zhang, Yafei and Liu, Yu
+![Uploading image.png…]()
+
 
 1. Install PyTorch 1.10.2 and torchvision 0.11.3.
     ```bash
